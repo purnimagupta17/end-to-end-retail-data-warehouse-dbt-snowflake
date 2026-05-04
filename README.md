@@ -125,13 +125,16 @@ ORDER BY d.year, d.month;
 
 ![dbt DAG](images/dbt_dag.png)
 
+### 🔹 DBT
+
+![dbt DAG](images/DBT.png)
 ### 🔹 Snowflake Tables (Gold Layer)
 
-![Snowflake Tables](images/snowflake_tables.png)
+![Snowflake Tables](images/Schema.png)
 
 ### 🔹 Sample Query Output
 
-![Query Results](images/query_results.png)
+![Query Results](images/example_query.png)
 
 ---
 
