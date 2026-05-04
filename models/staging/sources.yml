@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: ecommerce
+    database: ecommerce_db
+    schema: bronze
+    tables:
+      - name: orders_raw
