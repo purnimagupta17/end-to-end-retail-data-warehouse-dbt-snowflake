@@ -10,8 +10,6 @@ Raw transactional data is ingested, cleaned, transformed, and modeled into a **s
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](images/architecture.png)
-
 ```
 Raw CSV Data
      ↓
@@ -25,8 +23,6 @@ dbt Marts (Gold Layer - Star Schema)
 ---
 
 ## 🧱 Data Model (Star Schema)
-
-![DAG / Lineage](images/dbt_dag.png)
 
 ### ⭐ Fact Table
 
